@@ -1,6 +1,6 @@
 # test
 
-Just a test repository.
+Just a test repository, to test Gogs.
 
 ## License
 
