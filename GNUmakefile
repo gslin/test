@@ -1,3 +1,6 @@
 #
+.PHONY:		deploy
+
+#
 deploy::
 	@true
